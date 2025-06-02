@@ -1,0 +1,5 @@
+D:\Tatvasoft project\Web api\bookapi.services\obj\Debug\net8.0\bookapi.services.csproj.AssemblyReference.cache
+D:\Tatvasoft project\Web api\bookapi.services\obj\Debug\net8.0\bookapi.services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvasoft project\Web api\bookapi.services\obj\Debug\net8.0\bookapi.services.AssemblyInfoInputs.cache
+D:\Tatvasoft project\Web api\bookapi.services\obj\Debug\net8.0\bookapi.services.AssemblyInfo.cs
+D:\Tatvasoft project\Web api\bookapi.services\obj\Debug\net8.0\bookapi.services.csproj.CoreCompileInputs.cache

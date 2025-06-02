@@ -1,0 +1,11 @@
+D:\Tatvasoft project\Web api\bookapi.data\bin\Debug\net8.0\bookapi.data.deps.json
+D:\Tatvasoft project\Web api\bookapi.data\bin\Debug\net8.0\bookapi.data.dll
+D:\Tatvasoft project\Web api\bookapi.data\bin\Debug\net8.0\bookapi.data.pdb
+D:\Tatvasoft project\Web api\bookapi.data\obj\Debug\net8.0\bookapi.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvasoft project\Web api\bookapi.data\obj\Debug\net8.0\bookapi.data.AssemblyInfoInputs.cache
+D:\Tatvasoft project\Web api\bookapi.data\obj\Debug\net8.0\bookapi.data.AssemblyInfo.cs
+D:\Tatvasoft project\Web api\bookapi.data\obj\Debug\net8.0\bookapi.data.csproj.CoreCompileInputs.cache
+D:\Tatvasoft project\Web api\bookapi.data\obj\Debug\net8.0\bookapi.data.dll
+D:\Tatvasoft project\Web api\bookapi.data\obj\Debug\net8.0\refint\bookapi.data.dll
+D:\Tatvasoft project\Web api\bookapi.data\obj\Debug\net8.0\bookapi.data.pdb
+D:\Tatvasoft project\Web api\bookapi.data\obj\Debug\net8.0\ref\bookapi.data.dll
